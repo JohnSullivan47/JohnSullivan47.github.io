@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://JohnSullivan47.github.io/sitemap.xml
