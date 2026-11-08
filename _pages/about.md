@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.muhlenberg.edu/directory/john-l-sullivan/'>Professor of Media & Communication, Muhlenberg College</a>.B.A., Pomona College, Media Studies & German,
-M.A., Ph.D, University of Pennsylvania, Annenberg School for Communication
+subtitle: <a href='https://www.muhlenberg.edu/directory/john-l-sullivan/'>Professor of Media & Communication, Muhlenberg College</a>.
 
 profile:
   align: right
