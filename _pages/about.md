@@ -7,9 +7,9 @@ subtitle: <a href='https://www.muhlenberg.edu/directory/john-l-sullivan/'>Profes
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
-<div style="font-size: 0.8rem;">
+    <div style="font-size: 0.8rem;">
     <p>Department Media & Communication</p>
     <p>Muhlenberg College</p>
     <p>2400 Chew Street</p>
@@ -35,4 +35,4 @@ I am Professor of Media & Communication at Muhlenberg College in Allentown, PA. 
 
 I recently published a book entitled [Podcasting in a Platform Age](https://www.bloomsbury.com/us/podcasting-in-a-platform-age-9781501380679/), published by Bloomsbury Academic in 2024. The book examines podcasting production in the United States, focusing on the processes of formalization and monetization of amateur and semi-professional (or “Pro-Am”) labor. Other publications include [Media Audiences, 2nd edition](https://www.sagepub.com/shop/buy-a-book/media-audiences-2-258868) (Sage, 2019), an undergraduate text exploring the theoretical landscape of audience studies, and [The Platforms of Podcasting: Past and Present](https://journals.sagepub.com/doi/full/10.1177/2056305119880002) (*Social Media + Society*, 2019).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+>Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
