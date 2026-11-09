@@ -11,7 +11,7 @@ profile:
   more_info: >
     <div style="font-size: 0.8rem;">
     <p>Department Media & Communication</p>
-    <p>Muhlenberg College</p>
+    <p>Muhlenberg College</p><br>
     <p>2400 Chew Street</p>
     <p>Allentown, PA 18104</p>
     <p><a href='mailto:johnsullivan@muhlenberg.edu'>johnsullivan@muhlenberg.edu</a></p>
